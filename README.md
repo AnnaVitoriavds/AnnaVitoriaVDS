@@ -101,7 +101,11 @@ C# ▰▰▰▰▱▱▱▱▱▱ 40%
 
 ## 🐍 Cobrinha de contribuições
 
-<div align="center"> <img src="https://raw.githubusercontent.com/sarallorrayne/sarallorrayne/output/snake.svg" alt="Cobrinha animada" /> </div>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-purple.svg" />
+</div>
+
+
 
 ---
 
