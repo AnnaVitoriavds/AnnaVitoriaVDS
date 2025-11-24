@@ -7,8 +7,8 @@
 
 ### ✨ Sobre mim
 
-Sou formada em **Análise e Desenvolvimento de Sistemas**, atualmente cursando  
-**Ciência de Dados** e **Cibersegurança**.  
+## 👩🏻‍💻 Desenvolvedora Júnior | Front-End & Back-End | Ciência de Dados | Cibersegurança
+
 Sou apaixonada por tecnologia e atuo tanto no **Front-End** quanto no **Back-End**,  
 com foco em criar soluções modernas, eficientes e acessíveis.
 
@@ -50,12 +50,21 @@ Bem-vindo(a) ao meu GitHub! 🚀
 </p>
 
 ---
-
-## 📊 Minhas estatísticas
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=annavitoriavds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+## 📊 Competências
 
 
----
+HTML ▰▰▰▰▰▰▰▰▱▱ 80%
+CSS ▰▰▰▰▰▰▰▱▱▱ 70%
+JavaScript ▰▰▰▰▰▰▱▱▱▱ 60%
+Python ▰▰▰▰▱▱▱▱▱▱ 40%
+Java ▰▰▰▰▰▱▱▱▱▱ 50%
+C# ▰▰▰▰▱▱▱▱▱▱ 40%
+
+
+
+## 🏅 Nível de Desenvolvedora
+<img src="https://img.shields.io/badge/Nível-Júnior-8A2BE2?style=for-the-badge&logo=star&logoColor=white">
+
 
 ## 🐍 Cobrinha de contribuições
 
@@ -75,3 +84,4 @@ Bem-vindo(a) ao meu GitHub! 🚀
 
 
 ---
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annavitoriavds&theme=tokyonight"/>
