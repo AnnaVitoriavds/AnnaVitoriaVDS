@@ -15,6 +15,14 @@ com foco em criar soluções modernas, eficientes e acessíveis.
 Bem-vindo(a) ao meu GitHub! 🚀
 
 ---
+## 🧠 Aprendendo atualmente
+
+- ☕ **Java Avançado**
+- 🧩 **Estruturas de Dados**
+- 🔐 **Cibersegurança**
+- ⚙️ **APIs e Back-End com Node.js**
+- 📊 **Ciência de Dados com Python**
+
 
 ## ⚡ Tecnologias
 
@@ -32,6 +40,14 @@ Bem-vindo(a) ao meu GitHub! 🚀
 ✔ **Git** e **GitHub**
 
 ---
+## 🌱 Soft Skills
+
+- Comunicação clara
+- Organização e proatividade
+- Aprendizado rápido
+- Resolução de problemas
+- Trabalho em equipe
+
 
 ## 📬 Entre em contato comigo
 
@@ -60,21 +76,38 @@ Python ▰▰▰▰▱▱▱▱▱▱ 40%
 Java ▰▰▰▰▰▱▱▱▱▱ 50%
 C# ▰▰▰▰▱▱▱▱▱▱ 40%
 
+---
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=👩🏻‍💻+Anna+Vitória+Viana;Desenvolvedora+Front-End+%E2%9C%A8;Criativa+%7C+Dedicada+%7C+Persistente" />
 
-## 🏅 Nível de Desenvolvedora
-<img src="https://img.shields.io/badge/Nível-Júnior-8A2BE2?style=for-the-badge&logo=star&logoColor=white">
+<br>
+
+<img src="https://github.com/user-attachments/assets/bda54b3f-a904-4d6c-8614-8abb236a1f10" 
+     width="180" style="border-radius:50%; box-shadow:0 0 25px #8A2BE2;">
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Desenvolvedora-Júnior-8A2BE2?style=for-the-badge&logo=star&logoColor=fff" />
+<img src="https://img.shields.io/badge/Fullstack-Dev-8A2BE2?style=for-the-badge&logo=github&logoColor=fff" />
+<img src="https://img.shields.io/badge/Back--End-Lover-8A2BE2?style=for-the-badge&logo=server&logoColor=fff" />
+<img src="https://img.shields.io/badge/Security%20&%20Data%20Science-8A2BE2?style=for-the-badge&logo=python&logoColor=fff" />
+
+</div>
+
 
 
 ## 🐍 Cobrinha de contribuições
 
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/sarallorrayne/sarallorrayne/output/snake.svg" alt="Cobrinha animada" />
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-matrix.svg" />
 </div>
 
+
 ---
+
 
 ## 👀 Contador de visitas
 
@@ -85,3 +118,10 @@ C# ▰▰▰▰▱▱▱▱▱▱ 40%
 
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annavitoriavds&theme=tokyonight"/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=annavitoriavds&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
