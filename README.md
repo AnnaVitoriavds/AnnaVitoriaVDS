@@ -73,10 +73,9 @@ Bem-vindo(a) ao meu GitHub! 🚀
 
 ## 👀 Contador de visitas
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=annavitoriavds&color=8A2BE2&style=for-the-badge" />
+</p>
 
-<img src="https://profile-counter.glitch.me/annavitoriaviana/count.svg" />
-
-</div>
 
 ---
