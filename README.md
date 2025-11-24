@@ -21,9 +21,9 @@
 
 
 <section align="left">
-  <a href="mailto:saralvsouza@gmail.com" target="_blank" title="Gmail">
+  <a href="annavitoriavianad@gmail.com" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-8A2BE2?style=flat&labelColor=8A2BE2&logo=gmail&logoColor=white&link=mailto:annavitoriavianad@gmai.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/souza-sara/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/anna-vit%C3%B3ria-viana-4581021ab/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-8A2BE2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna-vit%C3%B3ria-viana-4581021ab/" alt="LinkedIn"/></a>
 </section>
 <br>
@@ -38,6 +38,7 @@
   <br clear="both">
 
   <img src="https://raw.githubusercontent.com/sarallorrayne/sarallorrayne/output/snake.svg" alt="Snake animation" />
+  
 
 </div>
 
