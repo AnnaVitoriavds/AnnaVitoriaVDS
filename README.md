@@ -99,14 +99,6 @@ C# ▰▰▰▰▱▱▱▱▱▱ 40%
 
 
 
-## 🐍 Cobrinha de contribuições
-
-<div align="center">
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-purple.svg" />
-</div>
-
-
-
 ---
 
 
