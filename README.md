@@ -36,8 +36,14 @@ Bem-vindo(a) ao meu GitHub! 🚀
 ## 💼 Ferramentas
 
 ✔ **VS Code**  
+
 ✔ **Figma**  
-✔ **Git** e **GitHub**
+
+✔ **Git** e **GitHub**           
+
+✔ **Android Studio** 
+
+✔ **Visual Studio** 
 
 ---
 ## 🌱 Soft Skills
@@ -70,16 +76,21 @@ Bem-vindo(a) ao meu GitHub! 🚀
 
 
 HTML ▰▰▰▰▰▰▰▰▱▱ 80%
+
 CSS ▰▰▰▰▰▰▰▱▱▱ 70%
+
 JavaScript ▰▰▰▰▰▰▱▱▱▱ 60%
+
 Python ▰▰▰▰▱▱▱▱▱▱ 40%
+
 Java ▰▰▰▰▰▱▱▱▱▱ 50%
+
 C# ▰▰▰▰▱▱▱▱▱▱ 40%
 
 ---
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=👩🏻‍💻+Anna+Vitória+Viana;Desenvolvedora+Front-End+%E2%9C%A8;Criativa+%7C+Dedicada+%7C+Persistente" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=👩🏻‍💻+Anna+Vitória+Viana;Desenvolvedora+Full-Stack+%E2%9C%A8;Cientista+de+Dados+%7C+Cyber+%7C" />
 
 <br>
 
@@ -107,7 +118,8 @@ C# ▰▰▰▰▱▱▱▱▱▱ 40%
   <img src="https://komarev.com/ghpvc/?username=annavitoriavds&color=8A2BE2&style=for-the-badge" />
 </p>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/annavitoriavds/sarallorrayne/output/snake.svg" alt="Cobrinha animada" /> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/annavitoriavds/annavitoriavds/output/snake.svg" alt="Cobrinha animada" /> 
+</div>
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annavitoriavds&theme=tokyonight"/>
 
