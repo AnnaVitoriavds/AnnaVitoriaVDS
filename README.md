@@ -99,7 +99,6 @@ C# ▰▰▰▰▱▱▱▱▱▱ 40%
 
 
 
----
 
 
 ## 👀 Contador de visitas
@@ -108,7 +107,7 @@ C# ▰▰▰▰▱▱▱▱▱▱ 40%
   <img src="https://komarev.com/ghpvc/?username=annavitoriavds&color=8A2BE2&style=for-the-badge" />
 </p>
 
-
+<div align="center"> <img src="https://raw.githubusercontent.com/sarallorrayne/sarallorrayne/output/snake.svg" alt="Cobrinha animada" /> </div>
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annavitoriavds&theme=tokyonight"/>
 
