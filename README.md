@@ -107,13 +107,13 @@ C# ▰▰▰▰▱▱▱▱▱▱ 40%
   <img src="https://komarev.com/ghpvc/?username=annavitoriavds&color=8A2BE2&style=for-the-badge" />
 </p>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/sarallorrayne/sarallorrayne/output/snake.svg" alt="Cobrinha animada" /> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/annavitoriavds/sarallorrayne/output/snake.svg" alt="Cobrinha animada" /> </div>
 ---
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annavitoriavds&theme=tokyonight"/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=annavitoriavds&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnnaVitoriaVds&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
