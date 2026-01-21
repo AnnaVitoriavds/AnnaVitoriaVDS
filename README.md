@@ -7,7 +7,7 @@
 
 ### ✨ Sobre mim
 
-## 👩🏻‍💻 Desenvolvedora Júnior | Front-End & Back-End | Ciência de Dados | Cibersegurança
+## 👩🏻‍💻 Desenvolvedora Júnior | Front-End & Back-End | Ciência de Dados | Analista de Dados
 
 Sou apaixonada por tecnologia e atuo tanto no **Front-End** quanto no **Back-End**,  
 com foco em criar soluções modernas, eficientes e acessíveis.
@@ -90,7 +90,7 @@ C# ▰▰▰▰▱▱▱▱▱▱ 40%
 ---
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=👩🏻‍💻+Anna+Vitória+Viana;Desenvolvedora+Full-Stack+%E2%9C%A8;Cientista+de+Dados+%7C+Cyber+%7C" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&width=600&lines=👩🏻‍💻+Anna+Vitória+Viana;Desenvolvedora+Full-Stack+%E2%9C%A8;Cientista+de+Dados+%7C+Analista+de+dados+%7C" />
 
 <br>
 
